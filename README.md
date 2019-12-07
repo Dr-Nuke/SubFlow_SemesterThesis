@@ -1,5 +1,5 @@
 # SubFlow_SemesterThesis
- My semester Thesis in 2011 for processing the Subflow Data in Matlab
- (Wiremesh sensor data)
+ Providing 3D Velocity and Diffusion insight based on wire-mesh sensor data 
+ 
  
  total.m is the main script
